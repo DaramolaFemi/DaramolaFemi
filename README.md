@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Daramola Femi</h1>
+<h1 align="center">Hi 🫡, I'm Daramola Femi</h1>
 <h3 align="center">A zealous full-stack engineer from Nigeria!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daramolafemi&label=Profile%20views&color=0e75b6&style=flat" alt="daramolafemi" /> </p>
 
-- 💬 Ask me about **JAVASCRIPT, TYPESCRIPT, REACT, ANGULAR, PHP**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, ANGULAR, PHP**
 
 - 📫 How to reach me **daramola772@gmail.com**
 
-- ⚡ Fun fact **Apart from writing codes, I write poetry.**
+- ⚡ Fun fact **Apart from writing codes, I also write poetry.🤗**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
