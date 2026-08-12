@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daramolafemi&label=Profile%20views&color=0e75b6&style=flat" alt="daramolafemi" /> </p>
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, ANGULAR, PHP**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, ANGULAR, SOLIDITY**
 
 - 📫 How to reach me **daramola772@gmail.com**
 
