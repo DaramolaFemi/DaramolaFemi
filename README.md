@@ -20,7 +20,7 @@
 
 ## About
 
-I'm a full-stack engineer from Nigeria focused on building reliable software across the web and blockchain.
+I'm a full-stack engineer from Nigeria focused on building reliable and scalable software across the web and blockchain.
 
 My main areas of work are **JavaScript/TypeScript, React, Node.js, Angular, and Solidity**.
 
@@ -53,25 +53,6 @@ Outside engineering, I write poetry.
 `Kubernetes`
 
 ---
-
-# Skill Matrix
-
-> A human assessment of my current engineering capability, supported by AI-assisted development and continuous learning.
-
-| Skill        | Human | AI-Augmented | Overall |
-| :----------- | :---: | :----------: | :-----: |
-| JavaScript   |  95%  |      98%     | **96%** |
-| TypeScript   |  90%  |      96%     | **93%** |
-| React        |  88%  |      95%     | **91%** |
-| HTML / CSS   |  92%  |      96%     | **94%** |
-| Node.js      |  82%  |      93%     | **87%** |
-| Angular      |  82%  |      92%     | **86%** |
-| Solidity     |  78%  |      91%     | **84%** |
-| Express.js   |  78%  |      91%     | **84%** |
-| Tailwind CSS |  75%  |      90%     | **81%** |
-| PHP          |  70%  |      88%     | **78%** |
-| Flutter      |  65%  |      85%     | **73%** |
-| Kubernetes   |  55%  |      80%     | **68%** |
 
 ### Engineering Profile
 
