@@ -1,273 +1,134 @@
-<h1 align="center">
-  Daramola Femi
-</h1>
+<h1 align="center">Daramola Femi</h1>
 
 <p align="center">
-  <strong>Full-Stack Engineer • Web3 / Solidity Developer • Software Engineer</strong>
+  <strong>Full-Stack Engineer · Web3 Developer</strong>
 </p>
 
 <p align="center">
-  Building scalable web applications, blockchain systems, and developer-focused products.
+  I build web applications, backend systems, and blockchain products.
 </p>
 
 <p align="center">
-  <a href="https://github.com/daramolafemi">
-    <img src="https://komarev.com/ghpvc/?username=daramolafemi&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <a href="https://github.com/daramolafemi">GitHub</a>
+  ·
+  <a href="https://twitter.com/darams410">Twitter</a>
+  ·
+  <a href="https://instagram.com/femidarams">Instagram</a>
 </p>
 
 ---
 
-## 👋 About Me
+## About
 
-I'm **Daramola Femi**, a passionate full-stack engineer from **Nigeria 🇳🇬** with a strong interest in building modern software products from the frontend to the blockchain layer.
+I'm a full-stack engineer from Nigeria focused on building reliable software across the web and blockchain.
 
-My engineering interests span:
+My main areas of work are **JavaScript/TypeScript, React, Node.js, Angular, and Solidity**.
 
-* 🧩 **Full-Stack Web Development**
-* ⚛️ **Modern Frontend Architecture**
-* 🧠 **Backend & API Engineering**
-* ⛓️ **Blockchain & Smart Contracts**
-* 🏗️ **Software Architecture**
-* ☁️ **Cloud & Infrastructure**
-* 🔐 **Web3 & Decentralized Applications**
+I'm particularly interested in the space where **human creativity, software engineering, and AI-assisted development** meet.
 
-I enjoy turning ideas into production-ready systems and continuously improving my engineering depth.
-
-> **I don't just write code — I build systems.**
+Outside engineering, I write poetry.
 
 ---
 
-## 🧰 Core Engineering Stack
+## Stack
 
-### Languages
+**Languages**
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="45" height="45" alt="Solidity" />
-</p>
+`JavaScript` `TypeScript` `Solidity` `HTML` `CSS` `PHP`
 
-### Frontend
+**Frontend**
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="45" height="45" alt="Angular" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="45" height="45" alt="Sass" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS" />
-</p>
+`React` `Angular` `Tailwind CSS` `Sass` `Bootstrap`
 
-### Backend & Runtime
+**Backend**
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js" />
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45" height="45" alt="Flutter" />
-</p>
+`Node.js` `Express.js`
 
-### Infrastructure & DevOps
+**Blockchain**
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45" height="45" alt="Kubernetes" />
-</p>
+`Solidity` `EVM` `Smart Contracts` `Web3`
+
+**Infrastructure**
+
+`Kubernetes`
 
 ---
 
-# ⚡ Skill Power Ranking
+# Skill Matrix
 
-> **My current self-assessed engineering proficiency.**
->
-> These rankings represent practical experience, confidence, and depth — not GitHub repository percentages.
+> A human assessment of my current engineering capability, supported by AI-assisted development and continuous learning.
 
-### 🥇 Tier 1 — Advanced
+| Skill        | Human | AI-Augmented | Overall |
+| :----------- | :---: | :----------: | :-----: |
+| JavaScript   |  95%  |      98%     | **96%** |
+| TypeScript   |  90%  |      96%     | **93%** |
+| React        |  88%  |      95%     | **91%** |
+| HTML / CSS   |  92%  |      96%     | **94%** |
+| Node.js      |  82%  |      93%     | **87%** |
+| Angular      |  82%  |      92%     | **86%** |
+| Solidity     |  78%  |      91%     | **84%** |
+| Express.js   |  78%  |      91%     | **84%** |
+| Tailwind CSS |  75%  |      90%     | **81%** |
+| PHP          |  70%  |      88%     | **78%** |
+| Flutter      |  65%  |      85%     | **73%** |
+| Kubernetes   |  55%  |      80%     | **68%** |
 
-| Rank | Technology |        Proficiency       |
-| :--: | ---------- | :----------------------: |
-|  🥇  | JavaScript | ████████████████████ 95% |
-|  🥈  | TypeScript | ███████████████████░ 90% |
-|  🥉  | React      | ██████████████████░░ 88% |
-|   4  | HTML       | ██████████████████░░ 88% |
-|   5  | CSS        | █████████████████░░░ 85% |
-
-### 🥈 Tier 2 — Strong
-
-| Rank | Technology   |        Proficiency       |
-| :--: | ------------ | :----------------------: |
-|   6  | Angular      | ████████████████░░░░ 82% |
-|   7  | Node.js      | ████████████████░░░░ 82% |
-|   8  | Solidity     | ███████████████░░░░░ 78% |
-|   9  | Express.js   | ███████████████░░░░░ 78% |
-|  10  | Tailwind CSS | ██████████████░░░░░░ 75% |
-
-### 🥉 Tier 3 — Working Knowledge
-
-| Rank | Technology |        Proficiency       |
-| :--: | ---------- | :----------------------: |
-|  11  | PHP        | █████████████░░░░░░░ 70% |
-|  12  | Flutter    | ████████████░░░░░░░░ 65% |
-|  13  | Kubernetes | ██████████░░░░░░░░░░ 55% |
-|  14  | Sass       | ██████████░░░░░░░░░░ 55% |
-|  15  | Bootstrap  | ██████████░░░░░░░░░░ 55% |
-
----
-
-# ⛓️ Web3 & Blockchain
-
-I'm particularly interested in the intersection of **software engineering and decentralized systems**.
-
-### Current Focus
-
-* 🔐 Solidity Smart Contract Development
-* ⛓️ EVM-Compatible Blockchains
-* 🧱 Smart Contract Architecture
-* 🧪 Contract Testing
-* 🚀 Smart Contract Deployment
-* 🌐 Web3 Application Development
-* 💰 DeFi Concepts
-* 🏦 Token & Protocol Design
-* 🔗 Blockchain Integration
-
-### Blockchain Ecosystem
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="50" height="50" alt="Solidity" />
-</p>
-
----
-
-# 🏗️ Engineering Philosophy
-
-I approach software development around a few principles:
-
-### 01 — Build for Maintainability
-
-Readable code today is cheaper than fixing unreadable code tomorrow.
-
-### 02 — Understand the System
-
-I aim to understand **why** a system works, not simply how to make it work.
-
-### 03 — Keep Learning
-
-Technology changes quickly. Strong engineers continuously improve their fundamentals.
-
-### 04 — Ship
-
-A good idea has little value until it becomes a working product.
-
-### 05 — Think Beyond the Code
-
-Software engineering includes architecture, security, performance, deployment, testing, and the people who use the system.
-
----
-
-# 🚀 What I'm Currently Exploring
+### Engineering Profile
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                  CURRENT FOCUS                       │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  ⛓️  Solidity & Smart Contracts                     │
-│  🌐  Web3 Application Development                    │
-│  🏗️  Scalable Software Architecture                 │
-│  ⚛️  Advanced React & TypeScript                     │
-│  🔐  Blockchain Security                             │
-│  ☁️  Infrastructure & DevOps                         │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+HUMAN ENGINEERING
+████████████████████░░░░  84%
+
+AI-AUGMENTED DEVELOPMENT
+██████████████████████░░  91%
+
+SYSTEM THINKING
+███████████████████░░░░░  79%
+
+WEB3 / BLOCKCHAIN
+█████████████████░░░░░░░  74%
+
+PRODUCT BUILDING
+███████████████████░░░░░  81%
+```
+
+**Human** → architecture, reasoning, debugging, product decisions, creativity
+
+**AI-Augmented** → research, prototyping, code generation, testing, documentation, exploration
+
+> AI makes me faster. It doesn't replace the engineering decisions.
+
+---
+
+## Current Focus
+
+```text
+Web3 / Solidity
+Smart Contract Development
+TypeScript Architecture
+AI-Assisted Engineering
+Scalable Backend Systems
 ```
 
 ---
 
-# 📊 GitHub Overview
+## GitHub
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=daramolafemi&show_icons=true&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=daramolafemi&show_icons=true&hide_border=true"
     alt="Daramola Femi GitHub Stats"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=daramolafemi&hide_border=true"
-    alt="Daramola Femi GitHub Streak"
-  />
-</p>
-
 ---
 
-# 📈 Contribution Activity
+## Contact
+
+**Email:** [daramola772@gmail.com](mailto:daramola772@gmail.com)
+
+If you're building something interesting around **software, Web3, or AI**, feel free to reach out.
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=daramolafemi&hide_border=true"
-    alt="Daramola Femi Contribution Graph"
-  />
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="left">
-
-<a href="https://twitter.com/darams410" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-    width="40"
-    height="40"
-    alt="Twitter"
-  />
-</a>
-
-  
-
-<a href="https://linkedin.com/in/femi-daramola" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    width="40"
-    height="40"
-    alt="LinkedIn"
-  />
-</a>
-
-  
-
-<a href="https://instagram.com/femidarams" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-    width="40"
-    height="40"
-    alt="Instagram"
-  />
-</a>
-
-</p>
-
-📫 **Email:** `daramola772@gmail.com`
-
----
-
-## ✍️ Beyond Engineering
-
-> **Apart from writing code, I also write poetry. 🤗**
-
-Engineering gives me structure.
-
-Poetry gives me freedom.
-
----
-
-<p align="center">
-  <strong>Thanks for stopping by 👋</strong>
-</p>
-
-<p align="center">
-  <i>Building. Learning. Shipping. Repeating.</i>
+  <sub>Build with intention. Learn continuously. Ship.</sub>
 </p>
