@@ -26,7 +26,7 @@ My main areas of work are **JavaScript/TypeScript, React, Node.js, Angular, and 
 
 I'm particularly interested in the space where **human creativity, software engineering, and AI-assisted development** meet.
 
-Outside engineering, I write poetry.
+Outside engineering, I write dark-poetry.
 
 ---
 
@@ -54,24 +54,6 @@ Outside engineering, I write poetry.
 
 ---
 
-### Engineering Profile
-
-```text
-HUMAN ENGINEERING
-████████████████████░░░░  84%
-
-AI-AUGMENTED DEVELOPMENT
-██████████████████████░░  91%
-
-SYSTEM THINKING
-███████████████████░░░░░  79%
-
-WEB3 / BLOCKCHAIN
-█████████████████░░░░░░░  74%
-
-PRODUCT BUILDING
-███████████████████░░░░░  81%
-```
 
 **Human** → architecture, reasoning, debugging, product decisions, creativity
 
