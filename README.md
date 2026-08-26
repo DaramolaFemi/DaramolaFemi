@@ -20,7 +20,7 @@
 
 ## About
 
-I'm a full-stack engineer from Nigeria focused on building reliable and scalable software across the web and blockchain.
+I'm a full-stack engineer from Africa focused on building reliable and scalable software across the web and blockchain.
 
 My main areas of work are **JavaScript/TypeScript, React, Node.js, Angular, and Solidity**.
 
