@@ -26,7 +26,7 @@ My main areas of work are **JavaScript/TypeScript, React, Node.js, Angular, and 
 
 I'm particularly interested in the space where **human creativity, software engineering, and AI-assisted development** meet.
 
-Outside engineering, I write dark-poetry.
+Outside engineering, I write poetry.
 
 ---
 
