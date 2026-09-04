@@ -84,6 +84,10 @@ Scalable Backend Systems
   />
 </p>
 
+
+<img src="https://github-readme-stats-three-ruddy-54.vercel.app/api/top-langs/?username=DaramolaFemi&layout=compact" alt="Top Languages" />
+
+
 ---
 
 ## Contact
