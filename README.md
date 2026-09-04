@@ -79,9 +79,9 @@ Scalable Backend Systems
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=daramolafemi&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Daramolafemi&show_icons=true&hide_border=true"
     alt="Daramola Femi GitHub Stats"
-  />
+    />
 </p>
 
 ---
