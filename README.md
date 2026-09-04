@@ -80,7 +80,7 @@ Scalable Backend Systems
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=DaramolaFemi&show_icons=true&hide_border=true"
-    alt="Daromola Femi GitHub Stats"
+    alt="Daramola Femi GitHub Stats"
   />
 </p>
 
