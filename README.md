@@ -79,12 +79,20 @@ Scalable Backend Systems
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-three-ruddy-54.vercel.app/api?username=DaramolaFemi&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=false&border_color=30363d&hide_rank=true&hide=issues,prs,contribs" 
+    src="https://github-readme-stats-three-ruddy-54.vercel.app/api?username=DaramolaFemi&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=false&border_color=30363d&hide_rank=true&hide=issues,prs,contribs&card_width=450" 
     alt="Daramola Femi GitHub Stats" 
   />
+  
   <img 
-    src="https://github-readme-stats-three-ruddy-54.vercel.app/api/top-langs/?username=DaramolaFemi&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=false&border_color=30363d" 
+    src="https://github-readme-stats-three-ruddy-54.vercel.app/api/top-langs/?username=DaramolaFemi&layout=donut&theme=github_dark&bg_color=0d1117&hide_border=false&border_color=30363d&card_width=450" 
     alt="Top Languages" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=DaramolaFemi&theme=github-dark-blue&hide_border=true&background=0d1117&border=30363d&card_width=450" 
+    alt="GitHub Streak" 
   />
 </p>
 ---
