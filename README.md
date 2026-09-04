@@ -78,8 +78,8 @@ Scalable Backend Systems
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-three-ruddy-54.vercel.app/api?username=DaramolaFemi&show_icons=true&hide_border=true&theme=transparent&hide_rank=true" alt="Daramola Femi GitHub Stats" />
-  <img src="https://github-readme-stats-three-ruddy-54.vercel.app/api/top-langs/?username=DaramolaFemi&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats-three-ruddy-54.vercel.app/api?username=DaramolaFemi&show_icons=true&hide_border=true&theme=dark&hide_rank=true&card_width=420" alt="Daramola Femi GitHub Stats" />
+  <img src="https://github-readme-stats-three-ruddy-54.vercel.app/api/top-langs/?username=DaramolaFemi&layout=compact&hide_border=true&theme=dark&card_width=420" alt="Top Languages" />
 </p>
 ---
 
