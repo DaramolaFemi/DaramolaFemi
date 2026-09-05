@@ -105,5 +105,6 @@ Scalable Backend Systems
 If you're building something interesting around **software, Web3, or AI**, feel free to reach out.
 
 <p align="center">
-  <sub>Build with intention. Learn continuously. Ship.</sub>
+  <sub>Building with love and intention. Learning continuously.</sub>
 </p>
+<!--update-->
