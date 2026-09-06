@@ -17,7 +17,7 @@
 </p>
 
 ---
-
+ 
 ## About
 
 I'm a full-stack engineer from Africa focused on building reliable and scalable software across the web and blockchain.
