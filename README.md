@@ -91,6 +91,12 @@ Scalable Backend Systems
     alt="GitHub Streak" 
   />
 </p>
+
+<!-- My GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DaramolaFemi&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
 ---
 <p align="center">
   <a href="https://ko-fi.com/fearme" target="_blank">
