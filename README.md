@@ -63,15 +63,8 @@ Outside engineering, I write poetry and travel.
 
 ---
 
-## Current Focus
-
-```text
-Web3 / Solidity
-Smart Contract Development
-TypeScript Architecture
-AI-Assisted Engineering
-Scalable Backend Systems
-```
+### Current Focus
+Building scalable, AI-assisted architectures for Web3 and the decentralized web.
 
 ---
 
@@ -92,11 +85,6 @@ Scalable Backend Systems
   />
 </p>
 
-<!-- My GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DaramolaFemi&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
 ---
 <p align="center">
   <a href="https://ko-fi.com/fearme" target="_blank">
@@ -104,11 +92,10 @@ Scalable Backend Systems
   </a>
 </p>
 
-## Contact
+## 📬 Contact
+**Email:** [daromola772@gmail.com](mailto:daromola772@gmail.com)
 
-**Email:** [daramola772@gmail.com](mailto:daramola772@gmail.com)
-
-If you're building something interesting around **software, Web3, or AI**, feel free to reach out.
+I am currently open to Full-Stack and Web3 opportunities. Let's build something that stands the test of time.
 
 <p align="center">
   <sub>Building with love and intention. Learning continuously.</sub>
