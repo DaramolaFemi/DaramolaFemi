@@ -19,14 +19,9 @@
 ---
  
 ## About
+I'm a full-stack engineer from Africa focused on building scalable software for the decentralized web. My core stack is JavaScript/TypeScript, React, Node.js, and Solidity.
 
-I'm a full-stack engineer from Africa focused on building reliable and scalable software across the web and blockchain.
-
-My main areas of work are **JavaScript/TypeScript, React, Node.js, Angular, and Solidity**.
-
-I'm particularly interested in the space where **human creativity, software engineering, and AI-assisted development** meet.
-
-Outside engineering, I write poetry and travel.
+Outside engineering, I'm deeply interested in AI-assisted development, human creativity, and writing poetry.
 
 ---
 
@@ -34,7 +29,7 @@ Outside engineering, I write poetry and travel.
 
 **Languages**
 
-`JavaScript` `TypeScript` `Solidity` `HTML` `CSS` `PHP`
+`TypeScript` `JavaScript`  `Solidity` `HTML` `CSS` `PHP`
 
 **Frontend**
 
@@ -92,7 +87,7 @@ Building scalable, AI-assisted architectures for Web3 and the decentralized web.
   </a>
 </p>
 
-## 📬 Contact
+## Contact
 **Email:** [daromola772@gmail.com](mailto:daromola772@gmail.com)
 
 I am currently open to Full-Stack and Web3 opportunities. Let's build something that stands the test of time.
