@@ -90,7 +90,7 @@ Building scalable, AI-assisted architectures for Web3 and the decentralized web.
 ## Contact
 **Email:** [daromola772@gmail.com](mailto:daromola772@gmail.com)
 
-I am currently open to Full-Stack and Web3 opportunities. Let's build something that stands the test of time.
+I am currently open to Full-Stack and Web3 roles. Let's build something that stands the test of time.
 
 <p align="center">
   <sub>Building with love and intention. Learning continuously.</sub>
