@@ -75,7 +75,7 @@ Building scalable, AI-assisted architectures for Web3 and the decentralized web.
     alt="Top Languages" 
   />
 <img 
-    src="https://github-streak-stats-rho-ten.vercel.app?user=DaramolaFemi&theme=github-dark-blue&hide_border=true&background=0d1117&border=30363d&timezone=Africa/Lagos" 
+    src="https://github-streak-stats-rho-ten.vercel.app?user=DaramolaFemi&theme=github-dark-blue&hide_border=true&background=0d1117&border=30363d&timezone=Africa/Lagos&v=4" 
     alt="GitHub Streak" 
 />
 </p>
