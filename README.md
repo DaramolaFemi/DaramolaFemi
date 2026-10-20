@@ -8,7 +8,7 @@
   I build web applications, backend systems, and blockchain products.
 </p>
 
-<p align="center">
+<p align="center"> 
   <a href="https://github.com/daramolafemi">GitHub</a>
   ·
   <a href="https://twitter.com/darams410">Twitter</a>
